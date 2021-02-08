@@ -1,0 +1,10 @@
+.my-container{
+    border :black 2px solid;
+    my-row{
+        border: red 2px dotted;
+        mycol{
+            border: solid green 2px;
+        }
+    }
+    background-color: antiquewhite;
+}
