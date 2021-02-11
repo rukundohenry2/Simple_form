@@ -1,10 +1,3 @@
-.my-container {
-  border: black 2px solid;
-  background-color: antiquewhite;
-}
-.my-container my-row {
-  border: red 2px dotted;
-}
-.my-container my-row mycol {
-  border: solid green 2px;
+my-container my-row mycol table {
+  border: green 2px solid;
 }/*# sourceMappingURL=main.css.map */

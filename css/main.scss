@@ -1,10 +1,9 @@
-.my-container{
-    border :black 2px solid;
+my-container{
     my-row{
-        border: red 2px dotted;
         mycol{
-            border: solid green 2px;
+            table{
+                border: green 2px solid;
+            }
         }
     }
-    background-color: antiquewhite;
 }
