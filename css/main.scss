@@ -1,9 +1,21 @@
-my-container{
-    my-row{
-        mycol{
-            table{
-                border: green 2px solid;
-            }
+body{
+    
+}
+.my-container{
+    
+    .my-row{
+        background-color: rgba(211, 203, 203, 0.555);
+        margin: 5vh;
+        height: 90vh;
+        top: 30vh;
+        border-radius: 30px;
+        // background-color: antiquewhite;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+
+        .mycol{
+            
         }
     }
 }
